@@ -12,4 +12,5 @@
 
   # Demo :
 
-  [Demo](https://www.youtube.com/watch?v=CcHtF7nqnZY)
+[![Video](https://www.youtube.com/watch?v=CcHtF7nqnZY/0.jpg)](https://www.youtube.com/watch?v=CcHtF7nqnZY)
+
